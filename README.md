@@ -1,5 +1,3 @@
-### Hi 👋
-
 <img src="https://raw.githubusercontent.com/jackeyGao/jackeyGao/master/who.png">
 
 
