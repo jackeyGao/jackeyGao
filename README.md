@@ -5,7 +5,7 @@ This is JG from China, base Shanghai.
 ```
 
 <p align="center">
-  <img src="https://jp2a.herokuapp.com/static/logo.png" width="200"/>
+  <img src="https://jp2a.herokuapp.com/static/logo.png"/>
 
 </p>
 
