@@ -1,6 +1,6 @@
 ### Hi 👋
 
-This is JG from China, base Shanghai. 
+<img src="https://raw.githubusercontent.com/jackeyGao/jackeyGao/master/who.png">
 
 
 <p align="center">
