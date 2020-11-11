@@ -10,7 +10,7 @@ read more: https://ijg.io/r/about.html
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jackeygao&show_icons=true" alt="JG's Github Stats" />
 
 <a href="https://github.com/itning">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itning" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackeygao" />
 </a>
 
 
