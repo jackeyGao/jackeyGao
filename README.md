@@ -4,14 +4,11 @@
 This is JG from China, base Shanghai. 
 ```
 
-read more: https://ijg.io/r/about.html
+<p align="center">
+  <img src="hhttps://jp2a.herokuapp.com/static/logo.png" width="200"/>
 
+</p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jackeygao&show_icons=true" alt="JG's Github Stats" />
-
-<a href="https://github.com/itning">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackeygao" />
-</a>
 
 
 <!--
