@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://jp2a.herokuapp.com/static/logo.png"/>
+  <img src="https://raw.githubusercontent.com/jackeyGao/jackeyGao/master/banner.png"/>
 </p>
 
 
