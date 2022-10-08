@@ -6,7 +6,7 @@
 </p>
 
 
-> 💬 vx: gaojunqi26 p.s.(Github)
+> 💬 微信: gaojunqi26 请备注来源:(Github)
 
 
 
