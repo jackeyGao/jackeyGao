@@ -14,7 +14,8 @@
 
 # Hi there, I'm Jackey Gao! 👋
 
-![Profile views](https://gpvc.arturio.dev/jackeyGao)
+
+[![JG's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackeyGao)](https://github.com/jackeyGao/github-readme-stats)
 
 ## About Me
 
