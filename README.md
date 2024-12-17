@@ -24,7 +24,7 @@ I'm a passionate software developer with a love for creating innovative solution
 - 🌱 I’m currently learning more about machine learning and cloud computing.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about anything related to web development, Python, or data analysis.
-- 📫 How to reach me: [jackeygao@example.com](mailto:jackeygao@example.com)
+- 📫 How to reach me: [gaojunqi@outlook.com](mailto:gaojunqi@outlook.com)
 - ⚡ Fun fact: I love hiking and exploring new trails in my free time.
 
 ## Languages and Tools
