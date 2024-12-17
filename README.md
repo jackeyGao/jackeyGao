@@ -14,8 +14,7 @@
 
 # Hi there, I'm Jackey Gao! 👋
 
-
-[![JG's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackeyGao)](https://github.com/jackeyGao/github-readme-stats)
+https://xxrr.top/
 
 ## About Me
 
